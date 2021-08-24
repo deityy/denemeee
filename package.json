@@ -1,0 +1,11 @@
+{
+  "main": "blop.js",
+  "scripts": {
+    "test": "node blop.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.27.0",
+    "mongoose": "^5.12.15"
+  }
+}
